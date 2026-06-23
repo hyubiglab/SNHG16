@@ -1,5 +1,7 @@
 Source codes used for data analyses in paper titled 'Bifunctional lncRNA SNHG16 with antagonistic RNA and peptide functions in colorectal cancer malignancy'.
+
 Authors: Sang-Ho Yoon, Yeongwon Kim, Minwook Lee, Jae-Won Yoon, Yewon Hong, Kyung-Tae Lee, Ngoc Bao To, Hansoll Na, Seung Hun Han, Seongmin Jang, Yewon Jo, Jae-Hoon Choi, Je-Min Choi, Junho Choe & Jin-Wu Nam
+
 Abstract
 Long non-coding RNAs (lncRNAs) are pivotal regulators of cancer progression, yet their functions within the heterogeneous tumor microenvironment (TME) remain poorly resolved. 
 Here, by integrating single-cell and bulk transcriptomics from colorectal cancer (CRC), we constructed a cell-type resolved lncRNA atlas, identifying SNHG16 as a transcript selectively enriched in malignant cells, whose expression is induced by macrophage-derived cues. 
